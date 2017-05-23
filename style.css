@@ -1,1 +1,16 @@
-/* Your CSS styles go here */
+body{
+	color:green;
+	background-color:#808080;
+	padding:50px;
+	margin-left:350px;
+	margin-right: 350px; 
+
+}
+.bodypart{
+	border:2px;
+	color:red;
+
+	padding-left: 50px;
+	width:750px;
+	background: gray;
+}
