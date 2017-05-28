@@ -1,1 +1,35 @@
 /* Your CSS styles go here */
+body{
+	color:green;
+	background-color:#FFFF00;
+	padding:50px;
+	margin-left:350px;
+	margin-right: 350px; 
+
+}
+@media  (min-width: 100px) and (max-width: 699px)   {
+	
+	.bodypart{
+	border:auto;
+	color:black;
+
+	padding-left: auto;
+	width:auto;
+	background-color: blue;
+
+}
+
+
+}
+@media  (min-width: 700px) and (max-width: 780px)  {
+	
+	.bodypart{
+	border:auto;
+	color:black;
+
+	padding-left: auto;
+	width:auto;
+	background-color: white;
+
+}
+}
